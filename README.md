@@ -7,7 +7,6 @@ RoSA is your robotic shopping assistant, here to help you automate your shopping
 * UiPath Studio
 * Sql Server
 * Bootstrap
-* 
 
 ## Features
 * Takes clients shopping lists from Email
